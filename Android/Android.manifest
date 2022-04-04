@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1090641468
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 001_zdepth
+      Dependencies: {}
+    Info_1:
+      Name: 001_alpha
+      Dependencies: {}
