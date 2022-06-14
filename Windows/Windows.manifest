@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1569779016
+CRC: 799625268
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: 001_alpha
+      Dependencies: {}
+    Info_2:
+      Name: 003_alpha
+      Dependencies: {}
+    Info_3:
+      Name: 003_zdepth
       Dependencies: {}
