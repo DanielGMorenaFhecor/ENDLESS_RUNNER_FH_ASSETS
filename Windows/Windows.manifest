@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 960508878
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: alpha_layer
+      Dependencies: {}
+    Info_1:
+      Name: physics_layer
+      Dependencies: {}
+    Info_2:
+      Name: zdepth_layer
+      Dependencies: {}
